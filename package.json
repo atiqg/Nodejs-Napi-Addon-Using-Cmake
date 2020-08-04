@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install": "cmake-js compile"
+    "install": "cmake-js compile",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",

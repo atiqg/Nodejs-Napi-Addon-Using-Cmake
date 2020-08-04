@@ -8,7 +8,7 @@ Checkout blog for details: https://medium.com/p/53315582cbd1
 ```
 git clone https://github.com/AtiqGauri/Nodejs-Napi-Addon-Using-Cmake.git
 npm install
-node index
+npm start
 ```
 
 ### License         
