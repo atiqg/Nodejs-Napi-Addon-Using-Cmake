@@ -7,6 +7,7 @@ Checkout blog for details: https://medium.com/p/53315582cbd1
 ## installation
 ```
 git clone https://github.com/AtiqGauri/Nodejs-Napi-Addon-Using-Cmake.git
+cd Nodejs-Napi-Addon-Using-Cmake
 npm install
 npm start
 ```
