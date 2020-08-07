@@ -7,8 +7,12 @@
     "install": "cmake-js compile",
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "AtiqGauri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtiqGauri/Nodejs-Napi-Addon-Using-Cmake.git"
+  },
   "dependencies": {
     "node-addon-api": "^3.0.0"
   },

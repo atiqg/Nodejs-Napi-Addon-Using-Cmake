@@ -2,7 +2,9 @@
 
 Code Repository for tutorial of C++ Native Addon independent of Node.js version using Napi/node-addon-api and Cmake
 
-Checkout blog for details: https://medium.com/p/53315582cbd1
+Checkout this article for details         
+[C++ Native Addon independent of Node.js version using Napi/node-addon-api and Cmake](https://medium.com/@gauriatiq/c-native-addon-independent-of-node-js-version-using-napi-node-addon-api-and-cmake-53315582cbd1)
+</br> </br>
 
 ## installation
 ```
